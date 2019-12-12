@@ -11,7 +11,7 @@
    2. What applications are going to run top on thiss database
    3. What functions will be called most frequently
    4. This step is usually very informal. 
-2. Comceptual Database Design
+2. Conceptual Database Design
    1. Produce an ER diagram: a high level sementaic for data models used in the database
 3. Logical Databse Design
    1. The step produces a logical schema based on a specific DBMS that people chose to use.
